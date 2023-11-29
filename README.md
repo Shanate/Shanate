@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shanate
+- 👋 Hi, I’m Shin JaeHyeok @Shanate
 - 👀 I’m interested in ... Electricity / Hardware Design
-- 🌱 I’m currently learning Electricity and Electronics Major
+- 🌱 I've learned Electricity and Electronics Major
 - 💞️ I’m looking to collaborate on [Blank]
 - 📫 How to Contact me this mail : 1. red_eyes43@naver.com     2. redeyes5240@gmail.com
 - 📫 I'm using Program - Verilog / VHDL
