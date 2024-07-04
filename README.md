@@ -10,4 +10,4 @@ Shanate/Shanate is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shanate)](https://solved.ac/shanate/)
-<img src="https://img.shields.io/badge/-Verilog-7FFFD4?style=flat-square&logo=simpleicons_Vim&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=simpleicons_Vim&logoColor=white"/>
