@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shin JaeHyeok @Shanate
+- 👋 Hi, I’m Shin JaeHyuk @Shanate
 - 👀 I was interested in ... Electricity / Hardware Design
 - 👀 Now, I'm interested in ... JAVA, espeically Web Back-End.
 - 🌱 I've learned Electricity and Electronics Major
