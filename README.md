@@ -1,7 +1,7 @@
 <!-- 상단 스크립트 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FA5858&height=150&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=24&pause=1000&color=CD2000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Halo.;I'm+in+the+process+of+becoming+a+backend+developer.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=24&pause=1000&color=CD2000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Halo.;I'm+in+the+process+of+becoming+a+backend+developer." alt="Typing SVG" /></a>
 
 - 👋 Hi, I’m Shin JaeHyuk @Shanate
 - 👀 I was interested in ... Electricity / Hardware Design
