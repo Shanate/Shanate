@@ -16,6 +16,8 @@ Shanate/Shanate is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shanate)](https://solved.ac/shanate/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanate)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanate&hide=contribs,prs&show_icons=true&theme=tokyonight)
 <h2>Back-End</h2>
 
 ![JAVA](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
