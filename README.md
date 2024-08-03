@@ -1,6 +1,8 @@
 <!-- 상단 스크립트 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FA5858&height=150&section=header" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=24&pause=1000&color=CD2000&center=true&multiline=true&width=435&height=70&lines=Halo.;I'm+in+the+process+of+becoming+a+backend+developer.)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m Shin JaeHyuk @Shanate
 - 👀 I was interested in ... Electricity / Hardware Design
 - 👀 Now, I'm interested in ... JAVA, espeically Web Back-End.
