@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FA5858&height=150&section=header" />
 
 - 👋 Hi, I’m Shin JaeHyuk @Shanate
 - 👀 I was interested in ... Electricity / Hardware Design
@@ -23,5 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shanate)](https://solved.ac/shanate/)
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FA58588&height=150&section=footer" />
