@@ -1,5 +1,5 @@
 <!-- 상단 스크립트 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'll Be a Back&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'll%20Be%20a%20Back&height=150&section=header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=24&pause=1000&color=CD2000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Halo.;I'm+in+the+process+of+becoming+a+backend+developer." alt="Typing SVG" /></a>
 
