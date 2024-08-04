@@ -1,5 +1,5 @@
 <!-- 상단 스크립트 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FA5858&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=24&pause=1000&color=CD2000&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Halo.;I'm+in+the+process+of+becoming+a+backend+developer." alt="Typing SVG" /></a>
 
@@ -9,6 +9,7 @@
 - 🌱 I've learned Electricity and Electronics Major
 - 💞️ I’m looking to collaborate on [Blank]
 - 📫 How to Contact me this mail : 1. red_eyes43@naver.com     2. redeyes5240@gmail.com
+  
 <b>- 👋 24.06.10 LG U+ Ureca 교육 1기 ~</b>
 <!-- - 📫 I'm using Program - Java /* Verilog / VHDL */ -->
 <!---
@@ -49,4 +50,4 @@ You can click the Preview link to take a look at your changes.
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 
 <!-- 하단 스크립트 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FA5858&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
