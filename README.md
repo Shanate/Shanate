@@ -1,5 +1,5 @@
 <!-- 상단 스크립트 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'll%20Be%20a%20Back&fontColor=235786&animation=twinkling&stroke=00FF00&strokeWidth=3&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'll%20Be%20a%20Back&fontColor=F18D2F&animation=twinkling&stroke=FFFFFF&strokeWidth=3&height=150&section=header" />
 
 - 👋 Hi, I’m Shin JaeHyuk @Shanate
 - 👀 I was interested in ... Electricity / Hardware Design
