@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on [Blank]
 - 📫 How to Contact me this mail : 1. red_eyes43@naver.com     2. redeyes5240@gmail.com
 - 👋 23.1.5 ~ 23.4.28 System IC Design Engineer Fostering Program 2기(KAIST IDEC)
+
 <b>- 👋 24.06.10 LG U+ Ureca 교육 1기 ~</b>
 <!-- - 📫 I'm using Program - Java /* Verilog / VHDL */ -->
 <!---
