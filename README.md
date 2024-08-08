@@ -2,12 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'll%20Be%20a%20Back&fontColor=E1008B&animation=twinkling&stroke=D3C4B6&strokeWidth=2&height=150&section=header" />
 
 ## - 👋 Hi, I’m Shin JaeHyuk @Shanate
-### - 🐧 I was interested in ... Electricity / Hardware Design
+#### - 🐧 I was interested in ... Electricity / Hardware Design
 ## - 🐣 Now, I'm interested in ... JAVA, espeically Web Back-End.
-### - 🌱 I've learned Electricity and Electronics Major
+#### - 🌱 I've learned Electricity and Electronics Major
 - 💞️ I’m looking to collaborate on [Blank]
-### - ⛩ How to Contact me this mail : 1. red_eyes43@naver.com     2. redeyes5240@gmail.com
-### - 🌈 23.1.5 ~ 23.4.28 System IC Design Engineer Fostering Program 2기(KAIST IDEC)
+#### - ⛩ How to Contact me this mail : 1. red_eyes43@naver.com     2. redeyes5240@gmail.com
+#### - 🌈 23.1.5 ~ 23.4.28 System IC Design Engineer Fostering Program 2기(KAIST IDEC)
 
 ## <b> - 📚 24.06.10 LG U+ Ureca 교육 1기 ~</b>
 <!-- - 📫 I'm using Program - Java /* Verilog / VHDL */ -->
