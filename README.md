@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Vivado](https://user-images.githubusercontent.com/3611330/51789332-126e5400-2188-11e9-808e-37c633755ddf.png-F7DF1E?style=for-the-badge&logo=Vivado&logoColor=white)
+![Vivado](https://cdn.skillmapper.com/static/content/webv2/images/courses/1ce92c05c23fa3e2641de619eca67afa-F7DF1E?style=for-the-badge&logo=Vivado&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
