@@ -16,8 +16,8 @@ Shanate/Shanate is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shanate)](https://solved.ac/shanate/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={shanate}&theme=warm)<img src="http://mazandi.herokuapp.com/api?handle={shanate}&theme=warm"/>
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shanate)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={shanate}&theme=warm)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shanate&count_private=true&show_icons=true&bg_color=47,e0512d,e0d12d,cc2ed1&title_color=fff&text_color=fff)](https://github.com/Shanate)
 <h2>Back-End</h2>
 
