@@ -52,3 +52,20 @@ You can click the Preview link to take a look at your changes.
 <!-- 하단 스크립트 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 
+
+import ReactGithubCalendar from 'react-github-calendar';
+import { Tooltip as ReactTooltip } from 'react-tooltip';
+
+...
+    <ReactGithubCalendar
+        username="USERNAME"
+        color="#0969da" // 간단하게 가장 어두운 색만 지정
+        style={{
+            margin: 'auto',
+            display: 'block',
+            maxWidth: '100%',
+            height: 'auto',
+            overflow: 'visible',
+        }}>
+        <ReactTooltip /> // 왜 안되지..
+    </ReactGithubCalendar>
