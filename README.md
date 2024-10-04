@@ -52,3 +52,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- 하단 스크립트 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+
+
+yarn add react-github-calendar
+import GitHubCalendar from 'react-github-calendar';
+
+<GitHubCalendar username="grubersjoe" />
