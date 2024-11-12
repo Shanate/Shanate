@@ -1,6 +1,7 @@
 <!-- 상단 스크립트 -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=I'll%20Be%20a%20Back&fontColor=E1008B&animation=twinkling&stroke=D3C4B6&strokeWidth=2&height=150&section=header" /> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&stroke=D3C4B6&strokeWidth=2&height=150&section=header" />
+
 ## - 👋 Hi, I’m Shin JaeHyuk @Shanate
 #### - 🐧 I was interested in ... Electricity / Hardware Design
 ## - 🐣 Now, I'm interested in ... JAVA, espeically Web Back-End.
