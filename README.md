@@ -10,8 +10,11 @@
 - 🌈 23.1.5 ~ 23.4.28 System IC Design Engineer Fostering Program 2기(KAIST IDEC)
 <!-- - ⛩ How to Contact me this mail : 1. red_eyes43@naver.com        2. hyuk.beback@gmail.com -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shanate)](https://solved.ac/shanate/) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanate&show_icons=true&theme=flag_india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanate&show_icons=true&theme=flag-india)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=peauty-BE)](https://github.com/Shanate/peauty-BE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=Ureca-MBTiny-Backend)](https://github.com/Shanate/Ureca-MBTiny-Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=CS-Study)](https://github.com/Shanate/CS-Study)
 
 ---
 <h3>Back-End</h3>
