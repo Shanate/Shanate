@@ -12,7 +12,7 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shanate)](https://solved.ac/shanate/) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanate&show_icons=true&theme=flag-india)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=peauty-BE)](https://github.com/Shanate/peauty-BE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=PEAUTY-BE)](https://github.com/Shanate/PEAUTY-BE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=Ureca-MBTiny-Backend)](https://github.com/Shanate/Ureca-MBTiny-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=CZB-BE)](https://github.com/Shanate/CZB-BE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=CS-Study)](https://github.com/Shanate/CS-Study)
