@@ -14,7 +14,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=PEAUTY-BE)](https://github.com/Shanate/PEAUTY-BE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=Ureca-MBTIny-Backend)](https://github.com/Shanate/Ureca-MBTiny-Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=CZB1-BE)](https://github.com/Shanate/CZB-BE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=CZB-BE)](https://github.com/Shanate/CZB-BE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shanate&theme=flag-india&repo=CS-Study)](https://github.com/Shanate/CS-Study)
 
 ---
