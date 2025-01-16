@@ -6,8 +6,9 @@
 #### I worked for a while as a semiconductor digital circuit designer.
 ### My Experience
 - 📚 24.06.10 ~ 24.12.24 LG U+ Ureca 교육 1기
-- ⛩ 24.01.02 ~ 24.05.23 SoC/MCU Circuit Engineer
-- 🌈 23.1.5 ~ 23.4.28 System IC Design Engineer Fostering Program 2기(KAIST IDEC)
+- 🏢 24.01.02 ~ 24.05.23 SoC/MCU Circuit Engineer
+- 🏫 23.1.5 ~ 23.4.28 System IC Design Engineer Fostering Program 2기(KAIST IDEC)
+- 🏦 21.3.1 ~ 22.8.31 CAGI 교내 소프트웨어 동아리
 <!-- - ⛩ How to Contact me this mail : 1. red_eyes43@naver.com        2. hyuk.beback@gmail.com -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shanate)](https://solved.ac/shanate/) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanate&show_icons=true&theme=flag-india)
