@@ -9,7 +9,7 @@
 - 🏢 24.01.02 ~ 24.05.23 SoC/MCU Circuit Engineer
 - 🏫 23.01.05 ~ 23.04.28 System IC Design Engineer Fostering Program 2기(KAIST IDEC)
 - 🏦 21.03.01 ~ 22.08.31 CAGI 교내 소프트웨어 동아리
-<! - ⛩ How to Contact me this mail : hyuk.beback@gmail.com >
+- ⛩ How to Contact me this mail : hyuk.beback@gmail.com
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shanate)](https://solved.ac/shanate/) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanate&show_icons=true&theme=flag-india)
 
